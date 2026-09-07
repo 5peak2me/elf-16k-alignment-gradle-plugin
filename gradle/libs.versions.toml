@@ -18,7 +18,7 @@ androidx-material3 = { group = "androidx.compose.material3", name = "material3" 
 picnic = "com.jakewharton.picnic:picnic:0.7.0"
 
 # https://central.sonatype.com/artifact/com.amap.api/3dmap-location-search
-map-amap-location-search = { module = "com.amap.api:3dmap-location-search", version = "11.2.000_loc11.2.000_sea9.8.0" }
+map-amap-location-search = { module = "com.amap.api:3dmap-location-search", version = "11.2.100_loc11.2.100_sea9.8.1" }
 
 # https://central.sonatype.com/artifact/com.baidu.lbsyun/BaiduMapSDK_Map
 map-baidu = { module = "com.baidu.lbsyun:BaiduMapSDK_Map", version.ref = "map-baidu" }
