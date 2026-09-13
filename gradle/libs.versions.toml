@@ -4,7 +4,7 @@ kotlin = "2.4.10"
 coreKtx = "1.19.0"
 appcompat = "1.8.0"
 material = "1.14.0"
-composeBom = "2026.06.01"
+composeBom = "2026.08.00"
 map-baidu = "8.2.0"
 
 [libraries]
