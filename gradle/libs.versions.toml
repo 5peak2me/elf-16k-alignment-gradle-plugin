@@ -5,7 +5,7 @@ coreKtx = "1.19.0"
 appcompat = "1.8.0"
 material = "1.14.0"
 composeBom = "2026.08.00"
-map-baidu = "8.2.0"
+map-baidu = "8.2.0.2"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
