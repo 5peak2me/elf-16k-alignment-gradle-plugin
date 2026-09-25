@@ -42,4 +42,4 @@ map-tencent-geolocation = "com.tencent.map.geolocation:TencentLocationSdk-openpl
 android-application = { id = "com.android.application", version.ref = "agp" }
 kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
 plugin-publish = { id = "com.gradle.plugin-publish", version = "2.1.1" }
-autonomousapps-testkit = { id = "com.autonomousapps.testkit", version = "0.19" }
+autonomousapps-testkit = { id = "com.autonomousapps.testkit", version = "0.20" }
